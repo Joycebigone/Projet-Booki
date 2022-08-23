@@ -1,0 +1,73 @@
+.cubeHebergements {
+	width: 45%;
+	height: 250px;
+	background-color: white;
+	padding: 1%;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	justify-content: flex-start;
+}
+
+
+.blocHebPop {
+    align-items: unset;
+    flex-direction: column-reverse;
+}
+
+
+.blocActivites {
+    width: 100%;
+    height: unset;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.cubeActivites {
+    width: 40%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+
+.blocActivites2356 {
+    width: 40%;
+    height: 600px;
+}
+
+.cubeActivites {
+    width: 40%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.blocActivites2356 {
+    width: 40%;
+    height: 600px;
+}
+
+
+.blocPopulaires {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 90%;
+ }
+
+
+.blocHebergements {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+.blocPopulaires {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 90%;
+    margin: auto;
+}
+
+.tabletTitrePara {
+		padding-left: 5%;
+}

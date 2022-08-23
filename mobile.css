@@ -1,0 +1,174 @@
+
+/* HEADER */
+.mainHeader{
+	margin: 0;
+}
+
+/*NAV*/
+.blocNavigation{
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.navigation{
+	width: 100%;
+}
+
+.navigation .lienMenu{
+	text-align: center;
+	padding-bottom: 20px;
+	border-bottom: 3px solid #f2f2f2;
+}
+
+.sizeLienMobile {
+		width: 50%;
+		border-top: none;
+	}
+
+
+	.sizeLienMobile:hover {
+		border-top: none;
+		border-bottom-color: #0065fc;
+	}
+
+	.blocHebergements {
+		height: auto;
+	} 
+
+
+.bloc1 {
+	flex-direction: column;
+	margin-bottom: 0;
+}
+
+.bloc2{
+	flex-direction: column;
+	margin-top: 0;
+}
+
+.cubeHebergements {
+	width: 100%;
+	margin-bottom: 50px;
+	box-shadow: 5px 5px 5px 1px #f2f2f2;
+}
+
+.cubeDetailsHebergements {
+	min-height: auto;
+}
+
+.blocActivites {
+	flex-direction: column;
+	height: auto;
+}
+
+.cubeActivites {
+	width: 90%;
+	max-width: 450px;
+	margin-bottom: 50px;
+}
+
+.blocActivites2356 {
+	width: 90%;
+	max-width: 450px;;
+	height: auto;
+}
+
+.cubeActivites2356 {
+	margin-bottom: 50px;
+}
+
+.imgActivites1, .imgActivites2, .imgActivites3, .imgActivites4, .imgActivites5, .imgActivites6 {
+	height: 200px;
+}
+
+.footer {
+	flex-direction: column;
+	align-items: flex-start;
+	height: auto;
+	padding-left: 20px;
+}
+
+.margeBlocFoot1 {
+	margin-left: 0;
+}
+
+
+
+
+	
+
+	.mobileTitreh1 {
+		font-size: x-large;
+	}
+
+	.bordureSearch {
+		width: auto;
+		border: none;
+		border-bottom: 1px solid #f2f2f2;
+	}
+
+	.recherche {
+		width: 200px;		
+	}
+	
+
+	.buttonSearch {
+		width: 50px;
+		border-radius: 15px;		
+	}
+
+	.desktopNone {
+		display: block;
+	}
+
+	.mobileNone {
+		display: none;
+	}
+
+	.margFiltre {
+		padding-left: 5%;
+	}
+
+	.info {
+		padding-left: 5%;
+	}
+
+
+	
+
+	.mobileFiltreWrap {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.filtreTexteIcons {
+		margin-bottom: 20px;
+	}
+
+	#hébergements {
+		flex-direction: column-reverse;
+		width: 100%;
+	}
+
+	.blocPopulaires {
+		width: 90%;
+		margin-left: 0;
+		padding: 5%;
+		border-radius: 0;
+	}
+
+	.blocHebergements {
+		width: 90%;
+		margin-right: 0;
+		margin-top: 50px;
+		padding: 5%;
+		background-color: white;
+	}
+
+	.mobileTitrePara {
+		padding-left: 5%;
+	}
+	
+
+
+
